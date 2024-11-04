@@ -1,0 +1,4 @@
+Hadoop is a framework for distributed storage and processing.
+Hadoop allows for the processing of large data sets.
+MapReduce is a programming model for processing data.
+Data processing is essential in data analysis.
